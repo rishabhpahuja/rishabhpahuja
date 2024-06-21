@@ -1,3 +1,7 @@
 # Hi, I am Rishabh 👋🏾 👩🏾‍💻
 
-I hold a master's degree from Carnegie Mellon University, specializing in computer vision and deep learning. My academic background has equipped me with advanced knowledge and skills in cutting-edge technologies. I am passionate about leveraging my expertise to contribute to projects that directly or indirectly improve the quality of human lives. My goal is to apply the principles of computer vision and deep learning to create innovative solutions that have a positive impact on society.
+🎓 2023 Master's graduate from Carnegie Mellon University with expertise in Computer Vision and Deep Learning.
+
+🔍 Specialized in real-time object detection, tracking, object localization, and 3D reconstruction using point clouds during graduate studies.
+
+💼 Currently leveraging time series experimental data in the automotive industry to develop deep learning models. Focus is on replacing physical air chamber testing with virtual testing methodologies.
